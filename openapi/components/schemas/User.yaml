@@ -1,4 +1,4 @@
-type: object
+type: objet
 properties:
   username:
     description: User supplied username
